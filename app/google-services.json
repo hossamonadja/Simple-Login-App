@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "780769497386",
+    "project_id": "auth-16b4f",
+    "storage_bucket": "auth-16b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780769497386:android:211dfc72481e5b921e8e53",
+        "android_client_info": {
+          "package_name": "com.hossam.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780769497386-g2fsb9c1l61mbo9ukf409qs6l65l80s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Pqzubo4st0otVuToU_m4K8D199VFslg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780769497386-g2fsb9c1l61mbo9ukf409qs6l65l80s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780769497386:android:ab68292219c5f66d1e8e53",
+        "android_client_info": {
+          "package_name": "com.hossam.quizzapp_o32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780769497386-g2fsb9c1l61mbo9ukf409qs6l65l80s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Pqzubo4st0otVuToU_m4K8D199VFslg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780769497386-g2fsb9c1l61mbo9ukf409qs6l65l80s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
